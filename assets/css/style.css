@@ -245,6 +245,7 @@ a.btn:hover{
 }
 .service-box a:hover{
     color:#131313;
+    margin-top: -1px;
 }
 
 .service-box a:hover span i{
@@ -431,7 +432,7 @@ a.btn:hover{
 
  .keyboard:hover{
     box-shadow: initial;
-    margin: -5px;
+    margin-top: 2px;
  }
 
  .keyboard img{
@@ -458,7 +459,7 @@ a.btn:hover{
     font-family: clashDisplay;
     line-height: 40px;
     text-transform: capitalize;
-    margin-top: 5pxpx;
+    margin-top: 5px;
  }
 
  .keyboard .text a{
